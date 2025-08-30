@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import asyncio
 
 # 🔑 حط التوكن متاع البوت هنا
-BOT_TOKEN = "PUT-YOUR-TOKEN-HERE"
+BOT_TOKEN = "8325912903:AAHYb-xLVI-JXWl3dc6_P8x2WwpqA_siA3g"
 
 # السؤال والإجابة
 QUESTION = "what's the Smart door system comniection smart door system - communicate group password?"
@@ -57,4 +57,4 @@ def main():
     app.run_polling()
 
 if __name__ == "__main__":
-    main()
+    main()    main()
